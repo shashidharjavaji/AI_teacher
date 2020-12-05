@@ -101,7 +101,7 @@ def process_content():
                 if len(val1)<1 and random.choice(ch) in val:
                     val1.append(idx)
             for value in val1:
-                final.append(l[value])Up NextVirat Kohli - Never Give Up | Inspirational Video Song | SiaVideo Edits
+                final.append(l[value])
 
             for indx, val in enumerate(l):
                 for m, v in enumerate(final):
